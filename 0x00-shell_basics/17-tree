@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir welcome/to/holberton /0x00-shell_basics/
+mkdir welcome/to/holberton .
