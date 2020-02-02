@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name "root"
+find -name /etc/passwd "root"
